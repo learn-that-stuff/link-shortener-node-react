@@ -15,4 +15,12 @@ There are several reasons of this project:
 
 ## Description
 
-Coming soon
+### Learning process
+
+Learning process consists of several steps:
+
+1. Create template for react app using ``create-react-app``
+2. Read documentation of ``create-react-app`` to be familiar with different possibilities offered to developers by ``create-react-app``
+3. Add ``react-router version 4`` to project
+4. Read examples and documentation about router usage
+5. Coming soon...
